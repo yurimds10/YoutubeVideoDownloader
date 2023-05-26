@@ -1,0 +1,17 @@
+{
+  "name": "YoutubeVideoDownloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/atenasdev/YoutubeVideoDownloader.git",
+  "author": "atenasdev <coder73854@proton.me>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.4"
+  }
+}
